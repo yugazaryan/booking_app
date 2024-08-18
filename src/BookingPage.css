@@ -1,0 +1,12 @@
+.booking-page {
+    text-align: center;
+    max-width: 500px;
+    margin: auto;
+  }
+  
+  .booking-page h1 {
+    font-size: 2em;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
